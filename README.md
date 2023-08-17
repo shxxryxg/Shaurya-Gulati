@@ -1,4 +1,4 @@
-# beta
+# Project Gallery
 
 Welcome to my Project Gallery!🙌🙌
 

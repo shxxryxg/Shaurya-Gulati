@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=shxxryg&style=for-the-badge&abbreviated=true)
+
 # Project Gallery
 
 Welcome to my Project Gallery! Here you'll find projects that I have worked on using Excel, PowerBi, Tableau, and Python. You can access them using the following links:

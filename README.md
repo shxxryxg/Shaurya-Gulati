@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=shxxryg&style=for-the-badge&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=shxxryg&style=for-the-badge&abbreviated=true&label=VISITS&color=grey)
 
 # Project Gallery
 
